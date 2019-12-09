@@ -2,10 +2,10 @@
 Machine Learning algorithms are utilized for accident risk prediction
 
 ##### Team Members:
-Nagajanaki Dwadasi (013853034)
-Rama Tejaswini Thotapalli (013785681)
-Priyanka Kumar (013749866)
-Vaidehi Naik (012560938)
+1. Nagajanaki Dwadasi (013853034)
+2. Rama Tejaswini Thotapalli (013785681)
+3. Priyanka Kumar (013749866)
+4. Vaidehi Naik (012560938)
 
 
 ### Dataset: https://www.kaggle.com/sobhanmoosavi/us-accidents
